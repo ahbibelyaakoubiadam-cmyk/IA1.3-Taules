@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial;
+    background-color: #f8f9fa;
+}
+
+table {
+    width: 90%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+caption {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+th, td {
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+    font-size: 12px;
+}
+
+th {
+    font-weight: bold;
+}
+
+.pati {
+    background-color: #76eba3;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.taller {
+    background-color: #95c1f0;
+    font-weight: bold;
+}
+
+.projecte {
+    background-color: #c39bda;
+    font-weight: bold;
+}
+
+tfoot td {
+    font-weight: bold;
+    border-bottom: none;
+    padding: 15px;
+}
